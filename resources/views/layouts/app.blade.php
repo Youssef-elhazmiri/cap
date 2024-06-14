@@ -25,6 +25,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://cdn-eblcf.nitrocdn.com">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/combinedCss/nitro-min-noimport-d17be745b1d484259285f42a5c820a8f-stylesheet.css">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/combinedCss/nitro-min-noimport-88813d6328fb0acab3ac57dc4bb6ddfb-stylesheet.css">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/combinedCss/nitro-min-noimport-841dcce97343d5cad38f963df8cd25db-stylesheet.css">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/externalFontFace/nitro-min-noimport-4911d12e05eba967a216b91ec0267509-stylesheet.css">
 
 <style>
         .position-relative {
@@ -267,7 +272,7 @@
   <nav class="main-menu d-flex navbar navbar-expand-lg p-2 py-3 p-lg-4 py-lg-4 ">
     <div class="container-fluid">
       <div class="main-logo d-lg-none">
-        <a href="{{ route('home') }}">
+        <a href="index.html">
           <img src=" {{URL::asset('/images/logo.png')}}" alt="logo" class="img-fluid">
         </a>
       </div>
@@ -299,12 +304,12 @@
               <a class="nav-link mx-2 dropdown-toggle align-items-center" role="button" id="pages"
                 data-bs-toggle="dropdown" aria-expanded="false">Programs</a>
               <ul class="dropdown-menu" aria-labelledby="pages">
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">By Level</a></li>
+                <li><a href="" class="dropdown-item">By Level</a></li>
                 
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">By Subject</a></li>
+                <li><a href="" class="dropdown-item">By Subject</a></li>
 
                 <li><a href="" class="dropdown-item">The Ultimate Guide to Studying in China</a></li>
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Browse All Programs</a></li>
+                <li><a href="" class="dropdown-item">Browse All Programs</a></li>
               </ul>
             </li>
 
@@ -312,9 +317,9 @@
               <a class="nav-link mx-2 dropdown-toggle align-items-center" role="button" id="courses"
                 data-bs-toggle="dropdown" aria-expanded="false">Universities</a>
               <ul class="dropdown-menu" aria-labelledby="courses">
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">University Rankings<span>
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Most Popular Universities in China</a></li>
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Top 16 Chinese Universities</a></li>
+                <li><a href="" class="dropdown-item">University Rankings<span>
+                <li><a href="" class="dropdown-item">Most Popular Universities in China</a></li>
+                <li><a href="" class="dropdown-item">Top 16 Chinese Universities</a></li>
                 <li><a href="{{ route('all_univ') }}" class="dropdown-item">See All Universities</a></li>
 
               </ul>
@@ -327,8 +332,8 @@
               <ul class="dropdown-menu" aria-labelledby="blog">
                 <li><a href="blog.html" class="dropdown-item">blog<span>
                 <li><a href="{{ route('register') }}" class="dropdown-item">Register an Account</a></li>
-                <li><a href="{{ route('contact') }}" class="dropdown-item">Ask a question</a></li>
-                <li><a href="{{ route('contact') }}" class="dropdown-item">Join The Wechat Group</a></li>
+                <li><a href="" class="dropdown-item">Ask a question</a></li>
+                <li><a href="" class="dropdown-item">Join The Wechat Group</a></li>
               </ul>
             </li>
 
@@ -342,20 +347,20 @@
                 <li><a href="{{ route('all_univ') }}" class="dropdown-item">Universities</a></li>
                 <li><a href="" class="dropdown-item">Programs</a></li>
                 <li><a href="{{ route('login') }}" class="dropdown-item">Admissions</a></li>
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Fees & Finances</a></li>
-                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Scholaships</a></li>
+                <li><a href="" class="dropdown-item">Fees & Finances</a></li>
+                <li><a href="" class="dropdown-item">Scholaships</a></li>
               </ul>
             </li>
 
             <li class="nav-item">
-              <a href="{{ route('contact') }}" class="nav-link mx-2">Support</a>
+              <a href="" class="nav-link mx-2">Support</a>
             </li>
 
             <li class="nav-item dropdown">
               <a class="nav-link mx-2 dropdown-toggle align-items-center" role="button" id="shop"
                 data-bs-toggle="dropdown" aria-expanded="false">About Us</a>
               <ul class="dropdown-menu" aria-labelledby="shop">
-                <li><a href="{{ route('welcome') }}" class="dropdown-item">Why China Admissions?</a></li>
+                <li><a href="" class="dropdown-item">Why China Admissions?</a></li>
                 <li><a href="" class="dropdown-item">Our services</a></li>
                 <li><a href="" class="dropdown-item">Book a Call with Us</a></li>
                 <li><a href="{{ route('home') }}" class="dropdown-item">Our Story</a></li>
@@ -367,22 +372,27 @@
 
           <div class="d-none d-lg-flex align-items-center">
             <ul class="d-flex  align-items-center list-unstyled m-0">
-              @if (Route::has('login'))
-                <li class="nav-item">
-                @guest
-                    <li><a href="{{ route('login') }}">Login</a></li>
+            @guest
+                    <div id="account-info" class="d-block d-lg-flex">
+                      <li class="nav-item ">
+                        <a class="nav-link nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('register') }}"></i>Register</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link  nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('login') }}"></i>Login</a>
+                      </li>
+                    </div>
                            
                         @else
                             <li class="dropdown">
-                            <a href="{{ route('logout') }}"
+                              <a href="{{ route('logout') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                                             Logout
-                                        </a>
+                              </a>
                                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                             {{ csrf_field() }}
                                         </form>
-                                    </li>
+                            </li>
 
                                 <ul class="dropdown-menu">
                                     <li>
@@ -399,34 +409,9 @@
                                 </ul>
                             </li>
                         @endguest
-              @endif
               </li>
               
-              <li>
-                <a href="wishlist.html" class="ms-3">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                    <use href="#heart" />
-                  </svg> </a>
-                </a>
-              </li>
-
-              <li class="">
-                <a href="#" class="ms-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-                  aria-controls="offcanvasCart">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                    <use href="#shopping-bag" />
-                  </svg> </a>
-                </a>
-              </li>
-
-              <li>
-                <a href="#" class="ms-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSearch"
-                  aria-controls="offcanvasSearch">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                    <use href="#search" />
-                  </svg> </a>
-                </a>
-              </li>
+              
 
             </ul>
           </div>
@@ -438,18 +423,22 @@
     <div class="container-fluid d-lg-none">
       <div class="d-flex  align-items-end mt-3">
         <ul class="d-flex  align-items-center list-unstyled m-0">
-        @if (Route::has('login'))
-                <li class="nav-item">
-                @guest
-                    <li><a href="{{ route('login') }}">Login</a></li>
+        @guest
+                    <div id="account-info" class="d-block d-lg-flex">
+                      <li class="nav-item ">
+                        <a class="nav-link nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('register') }}"></i>Register</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link  nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('login') }}"></i>Login</a>
+                      </li>
+                    </div>
                            
                         @else
                             <li class="dropdown">
                             <a href="{{ route('logout') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
-                    
-                    Logout
+                                            Logout
                                         </a>
                                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                             {{ csrf_field() }}
@@ -471,33 +460,9 @@
                                 </ul>
                             </li>
                         @endguest
-              @endif
               </li>
-          <li>
-            <a href="wishlist.html" class="me-3">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                <use href="#heart" />
-              </svg> </a>
-            </a>
-          </li>
-
-          <li class="">
-            <a href="#" class="me-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-              aria-controls="offcanvasCart">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                <use href="#shopping-bag" />
-              </svg> </a>
-            </a>
-          </li>
-
-          <li>
-            <a href="#" class="me-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSearch"
-              aria-controls="offcanvasSearch">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                <use href="#search" />
-              </svg> </a>
-            </a>
-          </li>
+          
+        
 
         </ul>
       </div>

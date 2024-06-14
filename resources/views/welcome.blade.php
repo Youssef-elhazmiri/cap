@@ -12,6 +12,11 @@
   <meta name="keywords" content="">
   <meta name="description" content="">
 </head>
+<link rel="preconnect" href="https://cdn-eblcf.nitrocdn.com">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/combinedCss/nitro-min-noimport-d17be745b1d484259285f42a5c820a8f-stylesheet.css">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/combinedCss/nitro-min-noimport-88813d6328fb0acab3ac57dc4bb6ddfb-stylesheet.css">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/combinedCss/nitro-min-noimport-841dcce97343d5cad38f963df8cd25db-stylesheet.css">
+<link rel="stylesheet" onload="NPRL.onLoadStyle(this)" onerror="NPRL.onErrorStyle(this)" href="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/static/optimized/rev-f04700e/apply.china-admissions.com/externalFontFace/nitro-min-noimport-4911d12e05eba967a216b91ec0267509-stylesheet.css">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
@@ -292,19 +297,26 @@
           <div class="d-none d-lg-flex align-items-center">
             <ul class="d-flex  align-items-center list-unstyled m-0">
             @guest
-                    <li><a href="{{ route('login') }}">Login</a></li>
+                    <div id="account-info" class="d-block d-lg-flex">
+                      <li class="nav-item ">
+                        <a class="nav-link nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('register') }}"></i>Register</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link  nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('login') }}"></i>Login</a>
+                      </li>
+                    </div>
                            
                         @else
                             <li class="dropdown">
-                            <a href="{{ route('logout') }}"
+                              <a href="{{ route('logout') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                                             Logout
-                                        </a>
+                              </a>
                                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                             {{ csrf_field() }}
                                         </form>
-                                    </li>
+                            </li>
 
                                 <ul class="dropdown-menu">
                                     <li>
@@ -323,31 +335,7 @@
                         @endguest
               </li>
               
-              <li>
-                <a href="wishlist.html" class="ms-3">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                    <use href="#heart" />
-                  </svg> </a>
-                </a>
-              </li>
-
-              <li class="">
-                <a href="#" class="ms-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-                  aria-controls="offcanvasCart">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                    <use href="#shopping-bag" />
-                  </svg> </a>
-                </a>
-              </li>
-
-              <li>
-                <a href="#" class="ms-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSearch"
-                  aria-controls="offcanvasSearch">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                    <use href="#search" />
-                  </svg> </a>
-                </a>
-              </li>
+              
 
             </ul>
           </div>
@@ -360,7 +348,14 @@
       <div class="d-flex  align-items-end mt-3">
         <ul class="d-flex  align-items-center list-unstyled m-0">
         @guest
-                    <li><a href="{{ route('login') }}">Login</a></li>
+                    <div id="account-info" class="d-block d-lg-flex">
+                      <li class="nav-item ">
+                        <a class="nav-link nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('register') }}"></i>Register</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link  nav-ca mr-3" style="text-transform: uppercase;" href="{{ route('login') }}"></i>Login</a>
+                      </li>
+                    </div>
                            
                         @else
                             <li class="dropdown">
@@ -390,31 +385,8 @@
                             </li>
                         @endguest
               </li>
-          <li>
-            <a href="wishlist.html" class="me-3">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                <use href="#heart" />
-              </svg> </a>
-            </a>
-          </li>
-
-          <li class="">
-            <a href="#" class="me-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-              aria-controls="offcanvasCart">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                <use href="#shopping-bag" />
-              </svg> </a>
-            </a>
-          </li>
-
-          <li>
-            <a href="#" class="me-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSearch"
-              aria-controls="offcanvasSearch">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                <use href="#search" />
-              </svg> </a>
-            </a>
-          </li>
+          
+        
 
         </ul>
       </div>
