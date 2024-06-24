@@ -3350,13 +3350,13 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 <section id="hero" style="background-image:url(images/billboard-bg.png); background-repeat: repeat; p ">
 <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="images/universities/photo1.jpg" style="width:100%">
+            <img src="images/univ_pic/BFSU_entrance.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo2.jpg" style="width:100%">
+            <img src="images/univ_pic/BFSU_hallway.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo3.jpg" style="width:100%">
+            <img src="images/univ_pic/BFSU.avif" style="width:100%">
         </div>
     </div>
     <br>
@@ -3399,7 +3399,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                     <li class="nav-item"> <a class="nav-link" href="#accommodation">Accommodation</a> </li>
                     <li class="nav-item"> <a class="nav-link" href="#admissions-process">Admissions</a> </li>
                     <li class="nav-item"> <a class="nav-link active" href="#admissions-reviews">Reviews</a> </li>
-                </ul>
+                </ul> 
             </nav>
             <div data-spy="scroll" data-target="#navbar-sections" data-offset="0" class="main-content">
                 <div class="row">
@@ -3457,30 +3457,30 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseOther" class="collapse show" aria-labelledby="others" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center ">
-                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="/d/pNBFSY6H0/certificate-in-chinese-business-studies-at-beijing-foreign-studies-university/"> Certificate in Chinese Business Studies </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="{{ route('listA') }}"> Certificate in Chinese Business Studies </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">61,630 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pNBFSY6H0/certificate-in-chinese-business-studies-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center ">
-                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="/d/pNBFSCLR0/e-commerce-in-china-at-beijing-foreign-studies-university/"> Certificate in E-Commerce in China </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="{{ route('listA') }}"> Certificate in E-Commerce in China </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">61,630 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pNBFSCLR0/e-commerce-in-china-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center ">
-                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="/d/pNBFSF7E0/bfsu-chinese-language-training-program-at-beijing-foreign-studies-university/"> Chinese Language Training Program </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="{{ route('listA') }}"> Chinese Language Training Program </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">16,808 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pNBFSF7E0/bfsu-chinese-language-training-program-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center ">
-                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="/d/pNBFSAC70/foundation-program-at-beijing-foreign-studies-university/"> International Foundation Program </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="{{ route('listA') }}"> International Foundation Program </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">28,014 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pNBFSAC70/foundation-program-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=NONE&amp;keyword=BFSU">See more non-Degree programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more non-Degree programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3489,36 +3489,36 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseBachelor" class="collapse show" aria-labelledby="headingOne" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBBFS5830/chinese-business-studies-at-beijing-foreign-studies-university/" class="text-dark"> Bachelor’s in Business Administration (Chinese Business Studies) </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Business Administration (Chinese Business Studies) </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">55,887 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBBFS5830/chinese-business-studies-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBBFSA800/international-marketing-at-beijing-foreign-studies-university/" class="text-dark"> Bachelor’s in Business Administration (International Marketing) </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Business Administration (International Marketing) </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">55,887 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBBFSA800/international-marketing-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBBFSLDY0/e-commerce-at-beijing-foreign-studies-university/" class="text-dark"> Bachelor’s in E-Commerce </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in E-Commerce </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">55,887 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBBFSLDY0/e-commerce-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBBFS2A90/international-finance-at-beijing-foreign-studies-university/" class="text-dark"> Bachelor’s in Finance </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Finance </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">55,887 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBBFS2A90/international-finance-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBBFSEB90/international-business-at-beijing-foreign-studies-university/" class="text-dark"> Bachelor’s in International Business </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in International Business </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">55,887 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBBFSEB90/international-business-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=BACHELOR&amp;keyword=BFSU">See more bachelor programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more bachelor programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3527,36 +3527,36 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseMasters" class="collapse show" aria-labelledby="headingTwo" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMBFSMM30/international-business-at-beijing-foreign-studies-university/" class="text-dark"> Master’s in International Business </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in International Business </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 45,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMBFSMM30/international-business-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMBFSA2C0/chinese-business-and-international-relations-at-beijing-foreign-studies-university/" class="text-dark"> Master’s in Chinese Business and International Relations </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Chinese Business and International Relations </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 45,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: / </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMBFSA2C0/chinese-business-and-international-relations-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMBFSHEZ0/chinese-culture-studies-at-beijing-foreign-studies-university/" class="text-dark"> Master’s in Chinese Culture Studies </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Chinese Culture Studies </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 40,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: / </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMBFSHEZ0/chinese-culture-studies-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMBFS8CB0/llm-in-chinese-business-and-commercial-law-at-beijing-foreign-studies-university/" class="text-dark"> LLM in Chinese Business and Commercial Law </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> LLM in Chinese Business and Commercial Law </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 128,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: / </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMBFS8CB0/llm-in-chinese-business-and-commercial-law-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMBFS8080/online-llm-in-chinese-business-and-commercial-law-at-beijing-foreign-studies-university/" class="text-dark"> Master’s in Online LLM in Chinese Business and Commercial Law </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Online LLM in Chinese Business and Commercial Law </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 0 RMB/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: / </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMBFS8080/online-llm-in-chinese-business-and-commercial-law-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=MASTER&amp;keyword=BFSU">See more master programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more master programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3565,12 +3565,12 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapsePhd" class="collapse show" aria-labelledby="headingThree" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pPBFS35N0/translation-studies-at-beijing-foreign-studies-university/" class="text-dark"> PhD in Translation Studies </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> PhD in Translation Studies </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">338,654 MAD</span>/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pPBFS35N0/translation-studies-at-beijing-foreign-studies-university/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=PHD&amp;keyword=BFSU">See more PhD programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more PhD programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                 </div>
@@ -3588,7 +3588,10 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                 </nav>
                                 <div class="tab-content" id="nav-tabContent">
                                     <div class="tab-pane fade   active show  " id="nav-white-building" role="tabpanel" aria-labelledby="nav-white-building-tab">
+                                        
+                                        <!--
                                         <div class="mt-2 mb-2">📍 Beijing Foreign Studies University (BFSU)/Beijing Campus/ White Building</div>
+                                        
                                         <div class="d-flex accomodation-images" style="overflow-x:scroll;height:200px;">
                                             <div class="video"> </div> <a href="https://upload-china-admissions.imgix.net/uploads/accommodation_pictures/White-Building.jpg" class="w-30" data-fancybox="white-building-gallery" data-caption="White Building">
                                                 <div style="background:url(&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;);background-size:cover;background-position:center;" class="accomodation-image mt-2 mb-2 ml-2 mr-2 grid-image nitro-lazy" nitro-lazy-bg="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/accommodation_pictures/White-Building.jpg"> </div>
@@ -3606,6 +3609,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                                 <div style="background:url(&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;);background-size:cover;background-position:center;" class="accomodation-image mt-2 mb-2 ml-2 mr-2 grid-image nitro-lazy" nitro-lazy-bg="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/accommodation_pictures/White-Building-6.jpg"> </div>
                                             </a>
                                         </div>
+                                        -->
                                         <p class="intro-headers">Accomodation Details:</p>
                                         <p></p>
                                         <p>The White Building is located on the west campus of BFSU behind the Domestic building Dormitory. The White Building is close to the West Campus Canteen, Campus Hospital, and International Building.</p>
@@ -3816,7 +3820,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                     </div>
                                 </div>
-                                <p>If accommodation on campus is important to you we advise you to arrive a few days before so you can try to register. You can also to choose accommodation off campus, we have an article about that <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/study-in-china-guide/accommodation/">here</a>. </p>
+                                <p>If accommodation on campus is important to you we advise you to arrive a few days before so you can try to register. You can also to choose accommodation off campus, we have an article about that <a style="color:#e10707;font-weight:700;" target="_blank" href="{{ route('welcome') }}">here</a>. </p>
                             </section>
                         </article>
                     </div>
@@ -3891,7 +3895,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
                                         <div class="">
-                                            <p> Please choose the programs <a style="color:#e10707;" target="_blank" href="https://www.china-admissions.com/how-to-choose-programs-at-chinese-universities/">here</a> , "You are advised to select 2-3 programs to increase your chances of getting accepted.</p>
+                                            <p> Please choose the programs <a style="color:#e10707;" target="_blank" href="{{ route('welcome') }}">here</a> , "You are advised to select 2-3 programs to increase your chances of getting accepted.</p>
                                         </div>
                                     </div>
                                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
@@ -3906,23 +3910,23 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                             </div>
                                             <div class=" mb-2">
                                                 <p class="intro-headers">Preparing documents:</p>
-                                                <p>You can start your application now and send the application documents during your application. Some documents you can send later if you don’t have them right away. Some more info about preparing application documents is <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/study-in-china-guide/application-documents-for-chinese-universities/">here</a> </p>
+                                                <p>You can start your application now and send the application documents during your application. Some documents you can send later if you don’t have them right away. Some more info about preparing application documents is <a style="color:#e10707;font-weight:700;" target="_blank" href="{{ route('welcome') }}">here</a> </p>
                                             </div> <a class="text" id="processinfo_showmore" href="#processinfo" role="button" style="color:#e10707;font-weight:700;"> Show more </a>
                                             <div class="d-none " id="processinfo">
                                                 <p class="intro-headers">Application process:</p>
-                                                <p> Applying Online is simple in just a few steps. More information is available <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/how-to-apply-online-to-chinese-universities/"> here</a>.</p>
+                                                <p> Applying Online is simple in just a few steps. More information is available <a style="color:#e10707;font-weight:700;" target="_blank" href="{{ route('welcome') }}"> here</a>.</p>
                                                 <p>The first steps are to choose the programs, pay the application fee and upload the application documents.</p>
                                                 <p>Once submitted to China Admissions, we will review your application within 2-3 days and proceed to the university or ask you for further clarification</p>
                                                 <p>After it has been processed to the university you will receive your unique application ID from each university.</p>
                                                 <p>The university may contact you directly for further questions. </p>
                                                 <p>We will then follow up each week with the university for updates. As soon as there is any update we will let you know. If you have made other plans, decide to withdraw / change address at any time please let us know.</p>
                                                 <p>After you have been accepted you will receive your admissions letter electronically and asked to pay the non-refundable deposit to the university.</p>
-                                                <p>Once you have paid the deposit the university will issue you the admissions letter and visa form to your home country.</p> <a class="text" id="processinfo_showless" href="#processinfo" role="button" style="color:#484848;font-weight:700;"> Show less </a>
+                                                <p>Once you have paid the deposit the university will issue you the admissions letter and visa form to your home country.</p> <a class="text" id="processinfo_showless" href="{{ route('welcome') }}" role="button" style="color:#484848;font-weight:700;"> Show less </a>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="collapseThree" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
-                                        <div class=""> <a style="color:#e10707;" target="_blank" href="https://www.china-admissions.com/enrolling-at-chinese-universities/">Here</a> is some more information about the enrollment process after you have been accepted. </div>
+                                        <div class=""> <a style="color:#e10707;" target="_blank" href="{{ route('welcome') }}">Here</a> is some more information about the enrollment process after you have been accepted. </div>
                                     </div>
                                 </section>
                             </section>
@@ -4074,7 +4078,6 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         <li class="disabled"><a class="page" href="javascript:function Z(){Z=&quot;&quot;}Z()">...</a></li>
                                     </ul>
                                 </div>
-                                <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/questions">See more questions about studying in China<i class="fas fa-arrow-right ml-1"></i> </a> </strong> </div>
                             </section>
                         </article>
                     </div>
@@ -4092,7 +4095,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         <div class="field  ">
                                             <div class="rating-left">
                                                 <h1><span class="badge badge-warning overall-score">8.2</span> </h1> (<span class="review-count">23 Reviews</span>) <br>
-                                                <div id="review-modal"> </div> <a class="text" id="write-review" data-toggle="modal" data-target="#reviewModal" href="#" role="button" style="color:#e10707;font-weight:700;"> Write a review </a>
+                                                <div id="review-modal"> </div> 
                                             </div>
                                         </div>
                                     </div>
