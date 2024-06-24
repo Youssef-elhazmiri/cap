@@ -3369,7 +3369,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
     <div class="school-page-logo">
         <div class="mr-2 mr-md-4">
             
-            <img class="logo" src="https://upload-china-admissions.imgix.net/uploads/school_logos/Logo.png" alt="Nanjing Tech University (NJTech) Logo">
+            <img class="logo" src="images/univ_logo/nanjing_tech_university.png" alt="Nanjing Tech University (NJTech) Logo">
             
         </div>
     </div>
@@ -3956,49 +3956,19 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 
 
         </div>
-        <!-- left -->
-
         <div class="d-none d-md-block col-sm-4">
             <div class="sidebar mt-4">
                 <div class="sticky-nav mt-4">
-                    <article style="margin-bottom: 0;">
-                        <section class="d-flex flex-column p-3 mdc-typography--body1">
-
-                            <a style="text-decoration: none;" href="#admissions-programs" class="ca-button w-100 btn btn-danger mb-4">
-                                See Programs
-                            </a>
-                            <a href="#question-container" class="btn w-100 btn-secondary">
-                                Request More Info
-                            </a>
-                            
-
-
-
-                        </section>
-
-
+                    <article style="margin-bottom:0;">
+                        <section class="d-flex flex-column p-3 mdc-typography--body1"> <a style="text-decoration:none;" href="{{ route('listA') }}" class="ca-button w-100 btn btn-danger mb-4"> See Programs </a> <a href="#question-container" class="btn w-100 btn-secondary"> Request More Info </a> <small class="d-flex justify-content-center mt-2"> 1193 students applied to this university</small> </section>
                     </article>
-                    
-                    
-                    
                 </div>
             </div>
         </div>
-        <!-- right -->
-
-        <!-- Nav for mobile -->
-
-        <div class="footer d-md-none position-sticky w-100" style="bottom:0px;z-index: 2; background:#fff">
-            <article style="margin-bottom: 0;">
-                <section class="card-body">
-
-                    <a style="text-decoration: none;" href="#admissions-programs" class="ca-button w-100 btn btn-danger">
-                        See Programs
-                    </a>
-                    
-                </section>
+        <div class="footer d-md-none position-sticky w-100" style="bottom:0px;z-index:2;background:#fff;">
+            <article style="margin-bottom:0;">
+                <section class="card-body"> <a style="text-decoration:none;" href="{{ route('listA') }}" class="ca-button w-100 btn btn-danger"> See Programs </a> <small class="d-flex justify-content-center mt-2"> 1193 students applied to this university</small> </section>
             </article>
-
         </div>
         
         <div class="col-12 pl-lg-0 pr-lg-0">

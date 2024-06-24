@@ -3367,7 +3367,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 </div>
 <div class="container">
         <div class="school-page-logo">
-            <div class="mr-2 mr-md-4"> <img alt="Sichuan University (SCU) Logo" href="images/Sichuan_University_logo.png" class="logo lazyloaded" decoding="async" nitro-lazy-empty="" id="ODI1MToxNjM=-1" src="images/Sichuan_University_logo.png"> </div>
+            <div class="mr-2 mr-md-4"> <img alt="Sichuan University (SCU) Logo" href="images/univ_logo/sichuan_university.png" class="logo lazyloaded" decoding="async" nitro-lazy-empty="" id="ODI1MToxNjM=-1" src="images/univ_logo/sichuan_university.png"> </div>
         </div>
         <div class="mr-md-2  row main position-relative justify-content-between  mb-md-5">
             <div class="col-md-8 col-12 mt-4">
@@ -3826,19 +3826,19 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                 </div>
             </div>
             <div class="d-none d-md-block col-sm-4">
-                <div class="sidebar mt-4">
-                    <div class="sticky-nav mt-4">
-                        <article style="margin-bottom:0;">
-                            <section class="d-flex flex-column p-3 mdc-typography--body1"> <a style="text-decoration:none;" href="#admissions-programs" class="ca-button w-100 btn btn-danger mb-4"> See Programs </a> <a href="#question-container" class="btn w-100 btn-secondary"> Request More Info </a> <small class="d-flex justify-content-center mt-2"> 385 students applied to this university</small> </section>
-                        </article>
-                    </div>
+            <div class="sidebar mt-4">
+                <div class="sticky-nav mt-4">
+                    <article style="margin-bottom:0;">
+                        <section class="d-flex flex-column p-3 mdc-typography--body1"> <a style="text-decoration:none;" href="{{ route('listA') }}" class="ca-button w-100 btn btn-danger mb-4"> See Programs </a> <a href="#question-container" class="btn w-100 btn-secondary"> Request More Info </a> <small class="d-flex justify-content-center mt-2"> 1193 students applied to this university</small> </section>
+                    </article>
                 </div>
             </div>
-            <div class="footer d-md-none position-sticky w-100" style="bottom:0px;z-index:2;background:#fff;">
-                <article style="margin-bottom:0;">
-                    <section class="card-body"> <a style="text-decoration:none;" href="#admissions-programs" class="ca-button w-100 btn btn-danger"> See Programs </a> <small class="d-flex justify-content-center mt-2"> 385 students applied to this university</small> </section>
-                </article>
-            </div>
+        </div>
+        <div class="footer d-md-none position-sticky w-100" style="bottom:0px;z-index:2;background:#fff;">
+            <article style="margin-bottom:0;">
+                <section class="card-body"> <a style="text-decoration:none;" href="{{ route('listA') }}" class="ca-button w-100 btn btn-danger"> See Programs </a> <small class="d-flex justify-content-center mt-2"> 1193 students applied to this university</small> </section>
+            </article>
+        </div>
             <div class="col-12 pl-lg-0 pr-lg-0 nitro-offscreen">
                 <div class="col p-0">
                     <article id="admissions-related-programs" style="margin-bottom:0;">

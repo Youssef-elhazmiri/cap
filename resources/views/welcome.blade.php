@@ -467,14 +467,14 @@
   </section>
 
   <section id="features">
-  <div class="feature-box container">
-  </div>
+    <div class="feature-box container">
+    </div>
   </section>
   
 
   <section id="testimonial" class="padding-medium bg-primary-subtle">
 
-  <div>
+    <div>
    <div class="container d-flex flex-column mb-5 reasons">
       <div class="d-lg-flex align-items-lg-center">
          <div class="col-md-4">
@@ -584,7 +584,7 @@
          </div>
       </div>
    </div>
-</div>
+    </div>
 
   </section >
 <section>
@@ -592,6 +592,7 @@
    <div class="container mb-4 mt-5">
       <div id="video" class="container-full video">
          <div class="row">
+            <!--
             <div class="col-md-6">
                <template data-nitro-marker-id="b9932d3190915fb40ee3014b59b64acf-1"></template>
                <script src="https://fast.wistia.com/embed/medias/hn0cw81lvt.jsonp" data-nitro-for-id="b9932d3190915fb40ee3014b59b64acf-1" id="b9932d3190915fb40ee3014b59b64acf-1"></script> 
@@ -961,6 +962,9 @@
                   </div>
                </div>
             </div>
+            -->
+
+
             <div class="col-md-6">
                <h3 class="ca-card-title pr-0 mb-4 ml-auto mr-auto">How to apply?</h3>
                <section class="mdc-card__supporting-text p-0 ">
@@ -981,7 +985,7 @@
          </div>
       </div>
    </div>
-</div>
+  </div>
 </section>
 <!--
  
@@ -1583,7 +1587,7 @@
           <div>
             <h2 class="display-6 fw-semibold">Join 180,000+ International Students And Get Monthly Updates </h2>
             <p class="text-secondary ">Receive Admissions, Scholarships & Deadlines Updates from Chinese Universities.
-Unsubscribe anytime.</p>
+            Unsubscribe anytime.</p>
           </div>
         </div>
         <div class="col-md-5">

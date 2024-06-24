@@ -114,27 +114,6 @@
 
                         <div class="col-12">
                             <div class="filter-options">
-                                <div class="select-options">
-                                    <div class="page-view-filter">
-                                        <div class="dropdown select-featured">
-                                            <select class="form-select" name="orderby" id="orderby">
-                                                <option value="-1" selected="">Default</option>
-                                                <option value="1">Date, New To Old</option>
-                                                <option value="2">Date, Old To New</option>
-                                                <option value="3">Price, Low To High</option>
-                                                <option value="4">Price, High To Low</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="dropdown select-featured">
-                                        <select class="form-select" name="size" id="pagesize">
-                                            <option value="12" selected="">12 Products Per Page</option>
-                                            <option value="24">24 Products Per Page</option>
-                                            <option value="52">52 Products Per Page</option>
-                                            <option value="100">100 Products Per Page</option>
-                                        </select>
-                                    </div>
-                                </div>
                                 <div class="grid-options d-sm-inline-block d-none">
                                     <ul class="d-flex">
                                         <li class="two-grid">
@@ -175,14 +154,14 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('beijing_foreign_studies_univ') }}">
-                                            <img alt="Beijing Foreign Studies University (BFSU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/04b0af801b0547f09652566619d3bcfa_YHTpzqM.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5ODoxOTc=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/04b0af801b0547f09652566619d3bcfa_YHTpzqM.png">
+                                            <img alt="Beijing Foreign Studies University (BFSU) Logo"  class="bg-img blur-up lazyload" decoding="async"  id="ODI5ODoxOTc=-1" src="images/univ_logo/beijing_foreign_studies_univ.jpg">
 
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('beijing_foreign_studies_univ') }}">
-                                        <img alt="Beijing Foreign Studies University (BFSU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/04b0af801b0547f09652566619d3bcfa_YHTpzqM.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5ODoxOTc=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/04b0af801b0547f09652566619d3bcfa_YHTpzqM.png">
+                                        <img alt="Beijing Foreign Studies University (BFSU) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5ODoxOTc=-1" src="images/univ_logo/beijing_foreign_studies_univ.jpg">
                                               
                                         </a>
                                     </div>
@@ -245,14 +224,14 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('changzhou_university') }}">
-                                            <img alt="Changzhou University (CZU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/logo_Ysg6UFh.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNTQ=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/logo_Ysg6UFh.png">
+                                            <img alt="Changzhou University (CZU) Logo"  class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNTQ=-1" src="images/univ_logo/changzhou_university.jpg">
 
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('changzhou_university') }}">
-                                            <img alt="Changzhou University (CZU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/logo_Ysg6UFh.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNTQ=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/logo_Ysg6UFh.png">
+                                            <img alt="Changzhou University (CZU) Logo"  class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNTQ=-1" src="images/univ_logo/changzhou_university.jpg">
                                               
                                         </a>
                                     </div>
@@ -315,14 +294,14 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('china_univ_petro_beij') }}">
-                                            <img alt="China University of Petroleum Beijing (CUPB) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/China_University_Of_Petroleum_Beijing_badge.svg.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIzMzoyMDc=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/China_University_Of_Petroleum_Beijing_badge.svg.png">
+                                            <img alt="China University of Petroleum Beijing (CUPB) Logo"  class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIzMzoyMDc=-1" src="images/univ_logo/china_univ_petro_beij.png">
 
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('china_univ_petro_beij') }}">
-                                            <img alt="China University of Petroleum Beijing (CUPB) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/China_University_Of_Petroleum_Beijing_badge.svg.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIzMzoyMDc=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/China_University_Of_Petroleum_Beijing_badge.svg.png">
+                                            <img alt="China University of Petroleum Beijing (CUPB) Logo"  class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIzMzoyMDc=-1" src="images/univ_logo/china_univ_petro_beij.png">
                                               
                                         </a>
                                     </div>
@@ -384,14 +363,14 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('hubei_university_of_technology') }}">
-                                        <img alt="Hubei University of Technology (HBUT) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Hubei_University_of_Technology_(HBUT).png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5NjoxOTA=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Hubei_University_of_Technology_(HBUT).png">
+                                        <img alt="Hubei University of Technology (HBUT) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5NjoxOTA=-1" src="images/univ_logo/hubei_university_of_technology.jpg">
 
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('hubei_university_of_technology') }}">
-                                        <img alt="Hubei University of Technology (HBUT) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Hubei_University_of_Technology_(HBUT).png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5NjoxOTA=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Hubei_University_of_Technology_(HBUT).png">
+                                        <img alt="Hubei University of Technology (HBUT) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI5NjoxOTA=-1" src="images/univ_logo/hubei_university_of_technology.jpg">
                                               
                                         </a>
                                     </div>
@@ -454,13 +433,13 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('jiangsu_normal_university') }}">
-                                            <img alt="Jiangsu Normal University (JSNU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/180px-Jiangsu_Normal_University_logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxODQ=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/180px-Jiangsu_Normal_University_logo.png">
+                                            <img alt="Jiangsu Normal University (JSNU) Logo"  class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxODQ=-1" src="images/univ_logo/jiangsu_normal_university.jpg">
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('jiangsu_normal_university') }}">
-                                        <img alt="Jiangsu Normal University (JSNU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/180px-Jiangsu_Normal_University_logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxODQ=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/180px-Jiangsu_Normal_University_logo.png">                                              
+                                        <img alt="Jiangsu Normal University (JSNU) Logo"  class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxODQ=-1" src="images/univ_logo/jiangsu_normal_university.jpg">                                              
                                         </a>
                                     </div>
                                     <div class="cart-wrap">
@@ -522,12 +501,13 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('jiangsu_university_science_and_technology') }}">
-                                            <img alt="Jiangsu University of Science and Technology (JUST) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/JUST-Logowhite.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMwNToxODE=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/JUST-Logowhite.jpg">                                            
+                                            <img alt="Jiangsu University of Science and Technology (JUST) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMwNToxODE=-1" src="images/univ_logo/jiangsu_university_science_and_technology.jpg">                                            
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('jiangsu_university_science_and_technology') }}">
-                                        <img alt="Jiangsu University of Science and Technology (JUST) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/JUST-Logowhite.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMwNToxODE=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/JUST-Logowhite.jpg">                                        </a>
+                                        <img alt="Jiangsu University of Science and Technology (JUST) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMwNToxODE=-1" src="images/univ_logo/jiangsu_university_science_and_technology.jpg">                                        
+                                        </a>
                                     </div>
                                     <div class="cart-wrap">
                                         <ul>
@@ -588,11 +568,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('nanjing_tech_university') }}">
-                                        <img class="bg-img blur-up lazyload"  src="https://upload-china-admissions.imgix.net/uploads/school_logos/Logo.png" alt="Nanjing Tech University (NJTech) Logo">                                        </a>
+                                        <img class="bg-img blur-up lazyload"  src="images/univ_logo/nanjing_tech_university.png" alt="Nanjing Tech University (NJTech) Logo">                                        </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('nanjing_tech_university') }}">
-                                        <img class="bg-img blur-up lazyload"  src="https://upload-china-admissions.imgix.net/uploads/school_logos/Logo.png" alt="Nanjing Tech University (NJTech) Logo">                                    </div>
+                                        <img class="bg-img blur-up lazyload"  src="images/univ_logo/nanjing_tech_university.png" alt="Nanjing Tech University (NJTech) Logo">                                    </div>
                                     <div class="cart-wrap">
                                         <ul>
                                             
@@ -652,11 +632,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('nantong_university') }}">
-                                        <img alt="Nantong University (NTU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Nantong_University_Logo.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxNjM=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Nantong_University_Logo.jpg">                                    
+                                        <img alt="Nantong University (NTU) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxNjM=-1" src="images/univ_logo/nantong_university.jpg">                                    
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('nantong_university') }}">
-                                        <img alt="Nantong University (NTU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Nantong_University_Logo.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxNjM=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Nantong_University_Logo.jpg">
+                                        <img alt="Nantong University (NTU) Logo" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxNjM=-1" src="images/univ_logo/nantong_university.jpg">
                                     </div>                                        
                                     <div class="cart-wrap">
                                         <ul>
@@ -717,11 +697,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('northwestern_polytechnical_university') }}">
-                                        <img alt="Northwestern Polytechnical University (NWPU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Seal_of_NWPU.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0NDoxNzI=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Seal_of_NWPU.png">                                    
+                                        <img alt="Northwestern Polytechnical University (NWPU) Logo" nitro-lazy-src="images/univ_logo/northwestern_polytechnical_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0NDoxNzI=-1" src="images/univ_logo/northwestern_polytechnical_university.jpg">                                    
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('northwestern_polytechnical_university') }}">
-                                        <img alt="Northwestern Polytechnical University (NWPU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Seal_of_NWPU.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0NDoxNzI=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Seal_of_NWPU.png">
+                                        <img alt="Northwestern Polytechnical University (NWPU) Logo" nitro-lazy-src="images/univ_logo/northwestern_polytechnical_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0NDoxNzI=-1" src="images/univ_logo/northwestern_polytechnical_university.jpg">
                                     </div>                                        
                                     <div class="cart-wrap">
                                         <ul>
@@ -782,11 +762,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('shanghai_dianji_university') }}">
-                                        <img alt="Shanghai Dianji University (SDJU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/shanghai-dianji-university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxNzU=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/shanghai-dianji-university.jpg">                                    
+                                        <img alt="Shanghai Dianji University (SDJU) Logo" nitro-lazy-src="images/univ_logo/shanghai_dianji_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxNzU=-1" src="images/univ_logo/shanghai_dianji_university.jpg">                                    
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('shanghai_dianji_university') }}">
-                                        <img alt="Shanghai Dianji University (SDJU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/shanghai-dianji-university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxNzU=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/shanghai-dianji-university.jpg">
+                                        <img alt="Shanghai Dianji University (SDJU) Logo" nitro-lazy-src="images/univ_logo/shanghai_dianji_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI2OToxNzU=-1" src="images/univ_logo/shanghai_dianji_university.jpg">
                                     </div>                                        
                                     <div class="cart-wrap">
                                         <ul>
@@ -847,11 +827,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('shanghai_second_polytechnic_university') }}">
-                                        <img alt="Shanghai Second Polytechnic University (SSPU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_Second_Polytechnic_University_(SSPU).png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI3ODoyMDY=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_Second_Polytechnic_University_(SSPU).png">
+                                        <img alt="Shanghai Second Polytechnic University (SSPU) Logo" nitro-lazy-src="images/univ_logo/shanghai_second_polytechnic_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI3ODoyMDY=-1" src="images/univ_logo/shanghai_second_polytechnic_university.jpg">
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('shanghai_second_polytechnic_university') }}">
-                                        <img alt="Shanghai Second Polytechnic University (SSPU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_Second_Polytechnic_University_(SSPU).png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI3ODoyMDY=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_Second_Polytechnic_University_(SSPU).png">
+                                        <img alt="Shanghai Second Polytechnic University (SSPU) Logo" nitro-lazy-src="images/univ_logo/shanghai_second_polytechnic_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI3ODoyMDY=-1" src="images/univ_logo/shanghai_second_polytechnic_university.jpg">
                                     </div>                                        
                                     <div class="cart-wrap">
                                         <ul>
@@ -912,11 +892,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('shanghai_university_of_engineering_science') }}">
-                                        <img alt="Shanghai University of Engineering Science (SUES) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_University_of_Engineering_Science_(SUES).png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMxNDoyMTQ=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_University_of_Engineering_Science_(SUES).png">
+                                        <img alt="Shanghai University of Engineering Science (SUES) Logo" nitro-lazy-src="images/univ_logo/shanghai_university_of_engineering_science.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMxNDoyMTQ=-1" src="images/univ_logo/shanghai_university_of_engineering_science.jpg">
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('shanghai_university_of_engineering_science') }}">
-                                        <img alt="Shanghai University of Engineering Science (SUES) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_University_of_Engineering_Science_(SUES).png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMxNDoyMTQ=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Shanghai_University_of_Engineering_Science_(SUES).png">
+                                        <img alt="Shanghai University of Engineering Science (SUES) Logo" nitro-lazy-src="images/univ_logo/shanghai_university_of_engineering_science.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODMxNDoyMTQ=-1" src="images/univ_logo/shanghai_university_of_engineering_science.jpg">
                                     </div>                                        
                                     <div class="cart-wrap">
                                         <ul>
@@ -976,11 +956,11 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('shanghai_university') }}">
-                                        <img alt="Shanghai University (SHU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SHUlogo.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0MjoxNDg=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SHUlogo.jpg">
+                                        <img alt="Shanghai University (SHU) Logo" nitro-lazy-src="images/univ_logo/shanghai_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0MjoxNDg=-1" src="images/univ_logo/shanghai_university.jpg">
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('shanghai_university') }}">
-                                        <img alt="Shanghai University (SHU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SHUlogo.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0MjoxNDg=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SHUlogo.jpg">                                    </div>                                        
+                                        <img alt="Shanghai University (SHU) Logo" nitro-lazy-src="images/univ_logo/shanghai_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI0MjoxNDg=-1" src="images/univ_logo/shanghai_university.jpg">                                    </div>                                        
                                     <div class="cart-wrap">
                                         <ul>
                                             
@@ -1033,19 +1013,87 @@
                                 </div>
                             </div>
                         </div>
+                        
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="{{ route('sichuan_university') }}">
+                                        <img alt="Sichuan University (SCU) Logo" nitro-lazy-src="ages/univ_logo/south_china.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="images/univ_logo/sichuan_university.png" id="ODI1MzoxNjg=-1" src="images/univ_logo/sichuan_university.png">
+                                            
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="{{ route('sichuan_university') }}">
+                                        <img alt="Sichuan University (SCU) Logo" nitro-lazy-src="ages/univ_logo/south_china.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="images/univ_logo/sichuan_university.png" id="ODI1MzoxNjg=-1" src="images/univ_logo/sichuan_university.png">
+                                              
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            
+                                            <li>
+                                                <a href="{{ route('sichuan_university') }}">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <!--
+                                            <li>
+                                                <a href="javascript:void(0)" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                            -->
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    
+                                    <div class="main-price">
+                                        <a href="{{ route('sichuan_university') }}" class="font-default">
+                                            <h5 class="ms-0">Sichuan University (SCU)</h5>
+                                        </a>
+                                        
+                                        <!--
+                                        <button class="btn listing-content">Add To Cart</button>
+                                        -->
+                                    </div>
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">Note:</span>
+                                        <ul class="rating mt-0">
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star"></i>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('south_china') }}">
-                                        <img alt="South China University of Technology (SCUT) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SCUT-logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNjg=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SCUT-logo.png">
+                                        <img alt="South China University of Technology (SCUT) Logo" nitro-lazy-src="ages/univ_logo/south_china.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNjg=-1" src="images/univ_logo/south_china.jpg">
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('south_china') }}">
-                                        <img alt="South China University of Technology (SCUT) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SCUT-logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNjg=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/SCUT-logo.png">
+                                        <img alt="South China University of Technology (SCUT) Logo" nitro-lazy-src="ages/univ_logo/south_china.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MzoxNjg=-1" src="images/univ_logo/south_china.jpg">
                                               
                                         </a>
                                     </div>
@@ -1107,13 +1155,13 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('southwest-petroleum-university') }}">
-                                        <img alt="Southwest Petroleum University (SWPU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/southwest-petroleum-university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxODM=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/southwest-petroleum-university.png">
+                                        <img alt="Southwest Petroleum University (SWPU) Logo" nitro-lazy-src="images/univ_logo/southwest-petroleum-university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxODM=-1" src="images/univ_logo/southwest-petroleum-university.jpg">
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('southwest-petroleum-university') }}">
-                                        <img alt="Southwest Petroleum University (SWPU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/southwest-petroleum-university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxODM=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/southwest-petroleum-university.png">
+                                        <img alt="Southwest Petroleum University (SWPU) Logo" nitro-lazy-src="images/univ_logo/southwest-petroleum-university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI1MToxODM=-1" src="images/univ_logo/southwest-petroleum-university.jpg">
                                               
                                         </a>
                                     </div>
@@ -1175,13 +1223,13 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('tianjin_university') }}">
-                                        <img alt="Tianjin University (TJU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/654151462_KseH4sb.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI4MDoxNTc=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/654151462_KseH4sb.png">
+                                        <img alt="Tianjin University (TJU) Logo" nitro-lazy-src="images/univ_logo/tianjin_university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI4MDoxNTc=-1" src="images/univ_logo/tianjin_university.png">
                                             
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('tianjin_university') }}">
-                                        <img alt="Tianjin University (TJU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/654151462_KseH4sb.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI4MDoxNTc=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/654151462_KseH4sb.png">
+                                        <img alt="Tianjin University (TJU) Logo" nitro-lazy-src="images/univ_logo/tianjin_university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODI4MDoxNTc=-1" src="images/univ_logo/tianjin_university.png">
                                               
                                         </a>
                                     </div>
@@ -1243,12 +1291,12 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="{{ route('yangzhou_university') }}">
-                                        <img alt="Yangzhou University (YZU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Yangzhou_University_logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Yangzhou_University_logo.png">                                            
+                                        <img alt="Yangzhou University (YZU) Logo" nitro-lazy-src="images/univ_logo/yangzhou_university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="images/univ_logo/yangzhou_university.png">                                            
                                         </a>
                                     </div>
                                     <div class="back">
                                         <a href="{{ route('yangzhou_university') }}">
-                                        <img alt="Yangzhou University (YZU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Yangzhou_University_logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Yangzhou_University_logo.png">
+                                        <img alt="Yangzhou University (YZU) Logo" nitro-lazy-src="images/univ_logo/yangzhou_university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="images/univ_logo/yangzhou_university.png">
                                               
                                         </a>
                                     </div>
@@ -1274,7 +1322,7 @@
                                     
                                     <div class="main-price">
                                         <a href="{{ route('yangzhou_university') }}" class="font-default">
-                                            <h5 class="ms-0">Tianjin University (TJU)</h5>
+                                            <h5 class="ms-0">Yangzhou University (YZU)</h5>
                                         </a>
                                         
                                         <!--
@@ -1309,13 +1357,13 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="{{ route('yangzhou_university') }}">
-                                        <img alt="Yunnan University (YNU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/51YunNan_University_logo.svg_.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIyNDoxNjg=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/51YunNan_University_logo.svg_.png">                                            
+                                        <a href="{{ route('yunnan_university') }}">
+                                        <img alt="Yunnan University (YNU) Logo" nitro-lazy-src="images/univ_logo/yunnan_university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIyNDoxNjg=-1" src="images/univ_logo/yunnan_university.png">                                            
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="{{ route('yangzhou_university') }}">
-                                        <img alt="Yangzhou University (YZU) Logo" nitro-lazy-src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Yangzhou_University_logo.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/school_logos/Yangzhou_University_logo.png">
+                                        <a href="{{ route('yunnan_university') }}">
+                                        <img alt="Yunnan University (YNU) Logo" nitro-lazy-src="images/univ_logo/yunnan_university.png" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="images/univ_logo/yunnan_university.png">
                                               
                                         </a>
                                     </div>
@@ -1323,7 +1371,7 @@
                                         <ul>
                                             
                                             <li>
-                                                <a href="{{ route('yangzhou_university') }}">
+                                                <a href="{{ route('yunnan_university') }}">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -1340,8 +1388,8 @@
                                 <div class="product-details">
                                     
                                     <div class="main-price">
-                                        <a href="{{ route('yangzhou_university') }}" class="font-default">
-                                            <h5 class="ms-0">Tianjin University (TJU)</h5>
+                                        <a href="{{ route('yunnan_university') }}" class="font-default">
+                                            <h5 class="ms-0">Yunnan University (YNU)</h5>
                                         </a>
                                         
                                         <!--
@@ -1371,6 +1419,74 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="{{ route('zhengzhou_university') }}">
+                                        <img alt="Zhengzhou University (ZZU) Logo" nitro-lazy-src="images/univ_logo/zhengzhou_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIyNDoxNjg=-1" src="images/univ_logo/zhengzhou_university.jpg">                                            
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="{{ route('zhengzhou_university') }}">
+                                        <img alt="Zhengzhou University (ZZU) Logo" nitro-lazy-src="images/univ_logo/zhengzhou_university.jpg" class="bg-img blur-up lazyload" decoding="async" nitro-lazy-empty="" id="ODIwOToxNjU=-1" src="images/univ_logo/zhengzhou_university.jpg">
+                                              
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            
+                                            <li>
+                                                <a href="{{ route('zhengzhou_university') }}">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <!--
+                                            <li>
+                                                <a href="javascript:void(0)" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                            -->
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    
+                                    <div class="main-price">
+                                        <a href="{{ route('zhengzhou_university') }}" class="font-default">
+                                            <h5 class="ms-0">Zhengzhou University (ZZU)</h5>
+                                        </a>
+                                        
+                                        <!--
+                                        <button class="btn listing-content">Add To Cart</button>
+                                        -->
+                                    </div>
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">Note:</span>
+                                        <ul class="rating mt-0">
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star theme-color"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star"></i>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
 
                     </div>
                     
