@@ -196,7 +196,7 @@
   <nav class="main-menu d-flex navbar navbar-expand-lg p-2 py-3 p-lg-4 py-lg-4 ">
     <div class="container-fluid">
       <div class="main-logo d-lg-none">
-        <a href="index.html">
+        <a href="{{ route('welcome') }}">
           <img src=" {{URL::asset('/images/logo.png')}}" alt="logo" class="img-fluid">
         </a>
       </div>
@@ -214,7 +214,7 @@
 
         <div class="offcanvas-body justify-content-between">
           <div class="main-logo">
-            <a href="{{ route('home') }}">
+            <a href="{{ route('welcome') }}">
               <img src="images/logo.png" style="height: 110px" alt="logo" class="img-fluid">
             </a>
           </div>
@@ -1609,7 +1609,7 @@
       <div class="row">
         <div class="col-sm-6 col-lg-4 my-3">
           <div class="footer-menu">
-            <a href="index.html">
+            <a href="i{{ route('welcome') }}">
               <img src="images/logo.png" alt="logo" class="img-fluid">
             </a>
             <div class="social-links mt-4">
