@@ -408,7 +408,7 @@
                 class="form-control bg-white border-0 rounded-4 shadow-none px-4 py-3 w-100">
               <button class="btn btn-primary rounded-4 px-3 py-2 position-absolute align-items-center m-1 end-0"><svg
                   xmlns="http://www.w3.org/2000/svg" width="22px" height="22px">
-                  <use href="#search" />
+                  <use href="{{ route('welcome') }}" />
                 </svg></button>
             </form>
 
@@ -420,6 +420,25 @@
         </div>
       </div>
     </div>
+  </section>
+
+  <section>
+
+  <div class="d-none d-md-block col-sm-4">
+            <div class="sidebar mt-4">
+                <div class="sticky-nav mt-4">
+                    <article style="margin-bottom:0;">
+                        <section class="d-flex flex-column p-3 mdc-typography--body1"> <a style="text-decoration:none;" href="{{ route('all_univ') }}" class="ca-button w-100 btn btn-danger mb-4"> See All Universities </a> <a href="#question-container" class="btn w-100 btn-secondary"> Request More Info </a> <small class="d-flex justify-content-center mt-2"> 1193 students applied to this university</small> </section>
+                    </article>
+                </div>
+            </div>
+        </div>
+        <div class="footer d-md-none position-sticky w-100" style="bottom:0px;z-index:2;background:#fff;">
+            <article style="margin-bottom:0;">
+                <section class="card-body"> <a style="text-decoration:none;" href="{{ route('all_univ') }}" class="ca-button w-100 btn btn-danger"> See All Universities </a> <small class="d-flex justify-content-center mt-2">Join 180,000+ International Students.</small> </section>
+            </article>
+        </div>
+  
   </section>
 
   <section id="features">

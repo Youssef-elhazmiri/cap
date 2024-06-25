@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
-<!DOCTYPE html>
-<html lang="en">
+@section('title') {{'CAP - All Universities'}} @endsection
+
 
 <head>
     <meta charset="utf-8">
@@ -1724,7 +1724,7 @@
     </script>
 </body>
 
-</html>
+
 
 
 @endsection

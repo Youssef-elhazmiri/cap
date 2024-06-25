@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+@section('title') {{'CAP - Changzhou_university'}} @endsection
 
 <link rel="stylesheet" type="text/css" href="css/stylesearch.css">
 

@@ -1,6 +1,8 @@
 @extends('layouts.app')
 @section('content')
 
+@section('title') {{'Beijing Foreign Studies University'}} @endsection
+
 <link rel="stylesheet" type="text/css" href="css/stylesearch.css">
 
   <link rel="stylesheet" type="text/css" href="css/styleUniv.css">
