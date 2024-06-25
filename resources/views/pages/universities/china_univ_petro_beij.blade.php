@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+@section('title') {{'CAP - China University of Petroleum Beijing (CUPB)'}} @endsection
 
 <link rel="stylesheet" type="text/css" href="css/stylesearch.css">
 
@@ -3350,14 +3351,12 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 <section id="hero" style="background-image:url(images/billboard-bg.png); background-repeat: repeat; p ">
 <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="images/universities/photo1.jpg" style="width:100%">
+            <img src="images/univ_pic/CUPB_Campus.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo2.jpg" style="width:100%">
+            <img src="images/univ_pic/CUPB_at_night.avif" style="width:100%">
         </div>
-        <div class="mySlides fade">
-            <img src="images/universities/photo3.jpg" style="width:100%">
-        </div>
+        
     </div>
     <br>
     <div style="text-align:center">

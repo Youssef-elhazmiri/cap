@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+@section('title') {{'CAP - Yunnan University (YNU)'}} @endsection
 
 <link rel="stylesheet" type="text/css" href="css/stylesearch.css">
 
@@ -3350,13 +3351,13 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 <section id="hero" style="background-image:url(images/billboard-bg.png); background-repeat: repeat; p ">
 <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="images/universities/photo1.jpg" style="width:100%">
+            <img src="images/univ_pic/16958045569851.jpg" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo2.jpg" style="width:100%">
+            <img src="images/univ_pic/700b08db69a82de6755211e4662c9332.jpg" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo3.jpg" style="width:100%">
+            <img src="images/univ_pic/1509605460941041290.png" style="width:100%">
         </div>
     </div>
     <br>

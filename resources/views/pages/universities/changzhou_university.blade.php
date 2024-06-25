@@ -3351,13 +3351,13 @@
 <section id="hero" style="background-image:url(images/billboard-bg.png); background-repeat: repeat; p ">
 <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="images/universities/photo1.jpg" style="width:100%">
+            <img src="images/univ_pic/CZU_Accommodations.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo2.jpg" style="width:100%">
+            <img src="images/univ_pic/CZU_campus.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo3.jpg" style="width:100%">
+            <img src="images/univ_pic/CZU_accommodation_amenities.avif" style="width:100%">
         </div>
     </div>
     <br>

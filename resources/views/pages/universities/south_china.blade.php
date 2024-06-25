@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+@section('title') {{'CAP - South China University of Technology (SCUT)'}} @endsection
 
 <link rel="stylesheet" type="text/css" href="css/stylesearch.css">
 
@@ -3350,13 +3351,13 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 <section id="hero" style="background-image:url(images/billboard-bg.png); background-repeat: repeat; p ">
 <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="images/universities/photo1.jpg" style="width:100%">
+            <img src="images/univ_pic/SCUT_campus.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo2.jpg" style="width:100%">
+            <img src="images/univ_pic/South_China_University_of_Technology_SCUT.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo3.jpg" style="width:100%">
+            <img src="images/univ_pic/Dorm_room.avif" style="width:100%">
         </div>
     </div>
     <br>

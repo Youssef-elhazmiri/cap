@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+@section('title') {{'CAP - Jiangsu Normal University (JSNU)'}} @endsection
 
 <link rel="stylesheet" type="text/css" href="css/stylesearch.css">
 
@@ -3350,13 +3351,13 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
 <section id="hero" style="background-image:url(images/billboard-bg.png); background-repeat: repeat; p ">
 <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="images/universities/photo1.jpg" style="width:100%">
+            <img src="images/univ_pic/b7ea28dc-27b8-48a7-b641-5aba5e01d041.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo2.jpg" style="width:100%">
+            <img src="images/univ_pic/af6db486-59ac-4112-9b75-77cadc7f4282.avif" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="images/universities/photo3.jpg" style="width:100%">
+            <img src="images/univ_pic/b8cfc9c7-9e82-490a-b771-0d4e24c97d59.avif" style="width:100%">
         </div>
     </div>
     <br>
