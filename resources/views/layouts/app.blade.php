@@ -304,12 +304,12 @@
               <a class="nav-link mx-2 dropdown-toggle align-items-center" role="button" id="pages"
                 data-bs-toggle="dropdown" aria-expanded="false">Programs</a>
               <ul class="dropdown-menu" aria-labelledby="pages">
-                <li><a href="" class="dropdown-item">By Level</a></li>
+                <li><a href="{{ route('all_univ') }}" class="dropdown-item">By Level</a></li>
                 
-                <li><a href="" class="dropdown-item">By Subject</a></li>
+                <li><a href="{{ route('all_univ') }}" class="dropdown-item">By Subject</a></li>
 
                 <li><a href="" class="dropdown-item">The Ultimate Guide to Studying in China</a></li>
-                <li><a href="" class="dropdown-item">Browse All Programs</a></li>
+                <li><a href="{{ route('listA') }}" class="dropdown-item">Browse All Programs</a></li>
               </ul>
             </li>
 
@@ -317,9 +317,9 @@
               <a class="nav-link mx-2 dropdown-toggle align-items-center" role="button" id="courses"
                 data-bs-toggle="dropdown" aria-expanded="false">Universities</a>
               <ul class="dropdown-menu" aria-labelledby="courses">
-                <li><a href="" class="dropdown-item">University Rankings<span>
-                <li><a href="" class="dropdown-item">Most Popular Universities in China</a></li>
-                <li><a href="" class="dropdown-item">Top 16 Chinese Universities</a></li>
+                <li><a href="{{ route('all_univ') }}" class="dropdown-item">University Rankings<span>
+                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Most Popular Universities in China</a></li>
+                <li><a href="{{ route('all_univ') }}" class="dropdown-item">Top 16 Chinese Universities</a></li>
                 <li><a href="{{ route('all_univ') }}" class="dropdown-item">See All Universities</a></li>
 
               </ul>
@@ -330,10 +330,10 @@
               <a class="nav-link mx-2 dropdown-toggle align-items-center" role="button" id="blog"
                 data-bs-toggle="dropdown" aria-expanded="false">Community</a>
               <ul class="dropdown-menu" aria-labelledby="blog">
-                <li><a href="blog.html" class="dropdown-item">blog<span>
+                <li><a href="{{ route('home') }}" class="dropdown-item">blog<span>
                 <li><a href="{{ route('register') }}" class="dropdown-item">Register an Account</a></li>
-                <li><a href="" class="dropdown-item">Ask a question</a></li>
-                <li><a href="" class="dropdown-item">Join The Wechat Group</a></li>
+                <li><a href="{{ route('contact') }}" class="dropdown-item">Ask a question</a></li>
+                <li><a href="{{ route('contact') }}" class="dropdown-item">Join The Wechat Group</a></li>
               </ul>
             </li>
 
@@ -347,8 +347,8 @@
                 <li><a href="{{ route('all_univ') }}" class="dropdown-item">Universities</a></li>
                 <li><a href="" class="dropdown-item">Programs</a></li>
                 <li><a href="{{ route('login') }}" class="dropdown-item">Admissions</a></li>
-                <li><a href="" class="dropdown-item">Fees & Finances</a></li>
-                <li><a href="" class="dropdown-item">Scholaships</a></li>
+                <li><a href="{{ route('listA') }}" class="dropdown-item">Fees & Finances</a></li>
+                <li><a href="{{ route('listA') }}" class="dropdown-item">Scholaships</a></li>
               </ul>
             </li>
 
@@ -363,8 +363,8 @@
                 <li><a href="" class="dropdown-item">Why China Admissions?</a></li>
                 <li><a href="" class="dropdown-item">Our services</a></li>
                 <li><a href="" class="dropdown-item">Book a Call with Us</a></li>
-                <li><a href="{{ route('home') }}" class="dropdown-item">Our Story</a></li>
-                <li><a href="{{ route('home') }}" class="dropdown-item">Testimonials</a></li>
+                <li><a href="{{ route('welcome') }}" class="dropdown-item">Our Story</a></li>
+                <li><a href="{{ route('welcome') }}" class="dropdown-item">Testimonials</a></li>
               </ul>
             </li>
             

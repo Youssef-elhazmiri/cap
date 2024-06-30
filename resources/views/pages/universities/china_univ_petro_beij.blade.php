@@ -3452,7 +3452,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                     <p>CUPB is equipped with modern facilities such as its university library which has&nbsp;over 1,176,000 volumes of books covering a wide range of topics. The university also has a computer lab which is accessible to students. The campus also has access to an internet connection. Besides this, a University Health Center is available if you want to request an appointment or private consultation.&nbsp;</p>
                                     <p style="margin-left:0cm;margin-right:0cm;text-align:-webkit-left;">If you like playing sports, CUPB has a university sports center and recreation hall. Three&nbsp;athletic grounds, a multi-purpose pavilion, a swimming pool, and a gymnasium are also available for your disposable.&nbsp;</p>
                                     <p style="margin-left:0cm;margin-right:0cm;text-align:-webkit-left;"><br> &nbsp;</p> <a class="text" id="showless-about-school" href="#moreinfo" role="button" style="color:#484848;font-weight:700;"> Show less </a>
-                                </div> <a class="text show-more-btn" id="showmore-about-school" href="#moreinfo" role="button" style=""> Show more </a>
+                                </div> 
                             </section>
                         </article>
                     </div>
@@ -3472,12 +3472,12 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseOther" class="collapse show" aria-labelledby="others" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center ">
-                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="/d/pNCUPHBR0/chinese-language-program-6-months-at-china-university-petroleum-beijing-cupb/"> Chinese Language Program </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="{{ route('listA') }}"> Chinese Language Program </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">14,707 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pNCUPHBR0/chinese-language-program-6-months-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=NONE&amp;keyword=CUPB">See more non-Degree programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more non-Degree programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3486,30 +3486,30 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseBachelor" class="collapse show" aria-labelledby="headingOne" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBCUPMRS0/bachelors-geophysics-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Bachelor’s in Geophysics </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Geophysics </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">35,017 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBCUPMRS0/bachelors-geophysics-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBCUPGU30/bachelors-petroleum-engineering-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Bachelor’s in Petroleum Engineering </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Petroleum Engineering </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">35,017 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBCUPGU30/bachelors-petroleum-engineering-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBCUPGMZ0/bachelors-reconnaissance-technology-and-engineering-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Bachelor’s in Reconnaissance Technology and Engineering </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Reconnaissance Technology and Engineering </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">35,017 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBCUPGMZ0/bachelors-reconnaissance-technology-and-engineering-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBCUPGE40/bachelors-resource-exploration-engineering-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Bachelor’s in Resource Exploration Engineering </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Resource Exploration Engineering </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">35,017 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBCUPGE40/bachelors-resource-exploration-engineering-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=BACHELOR&amp;keyword=CUPB">See more bachelor programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more bachelor programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3518,36 +3518,36 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseMasters" class="collapse show" aria-labelledby="headingTwo" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMCUPG5R0/masters-chemical-engineering-and-technology-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Master’s in Chemical Engineering and Technology </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Chemical Engineering and Technology </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 31,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMCUPG5R0/masters-chemical-engineering-and-technology-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMCUPGY30/masters-chemistry-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Master’s in Chemistry </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Chemistry </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 31,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMCUPGY30/masters-chemistry-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMCUPGQY0/masters-finance-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Master’s in Finance </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Finance </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 31,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMCUPGQY0/masters-finance-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMCUPHEZ0/masters-foreign-language-and-literature-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Master’s in Foreign Language and Literature </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Foreign Language and Literature </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 31,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMCUPHEZ0/masters-foreign-language-and-literature-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMCUPHEY0/masters-geological-resources-and-geological-engineering-at-china-university-petroleum-beijing-cupb/" class="text-dark"> Master’s in Geological Resources and Geological Engineering </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Geological Resources and Geological Engineering </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 31,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMCUPHEY0/masters-geological-resources-and-geological-engineering-at-china-university-petroleum-beijing-cupb/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=MASTER&amp;keyword=CUPB">See more master programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more master programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                 </div>
@@ -3566,17 +3566,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                 <div class="tab-content" id="nav-tabContent">
                                     <div class="tab-pane fade   active show  " id="nav-international-students-apartment" role="tabpanel" aria-labelledby="nav-international-students-apartment-tab">
                                         <div class="mt-2 mb-2">📍 China University of Petroleum Beijing (CUPB)/CUPB Campus/ International Students Apartment</div>
-                                        <div class="d-flex accomodation-images" style="overflow-x:scroll;height:200px;">
-                                            <div class="video"> </div> <a href="https://upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_Accommodations.jpg" class="w-30" data-fancybox="international-students-apartment-gallery" data-caption="CUPB accommodations">
-                                                <div style="background:url(&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;);background-size:cover;background-position:center;" class="accomodation-image mt-2 mb-2 ml-2 mr-2 grid-image nitro-lazy" nitro-lazy-bg="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_Accommodations.jpg"> </div>
-                                            </a> <a href="https://upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_SINGLE.jpg" class="w-30" data-fancybox="international-students-apartment-gallery" data-caption="CUPB single room accommodation">
-                                                <div style="background:url(&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;);background-size:cover;background-position:center;" class="accomodation-image mt-2 mb-2 ml-2 mr-2 grid-image nitro-lazy" nitro-lazy-bg="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_SINGLE.jpg"> </div>
-                                            </a> <a href="https://upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_SINGLEROOM.jpg" class="w-30" data-fancybox="international-students-apartment-gallery" data-caption="CUPB single room">
-                                                <div style="background:url(&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;);background-size:cover;background-position:center;" class="accomodation-image mt-2 mb-2 ml-2 mr-2 grid-image nitro-lazy" nitro-lazy-bg="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_SINGLEROOM.jpg"> </div>
-                                            </a> <a href="https://upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_KITCHENAREA.jpg" class="w-30" data-fancybox="international-students-apartment-gallery" data-caption="CUPB kitchen area">
-                                                <div style="background:url(&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;);background-size:cover;background-position:center;" class="accomodation-image mt-2 mb-2 ml-2 mr-2 grid-image nitro-lazy" nitro-lazy-bg="https://cdn-eblcf.nitrocdn.com/lZuytgWjZprCqHbvUEDajTtGzfSdJiEL/assets/images/optimized/rev-4427ecb/upload-china-admissions.imgix.net/uploads/accommodation_pictures/CUPB_KITCHENAREA.jpg"> </div>
-                                            </a>
-                                        </div>
+                                        
                                         <p class="intro-headers">Accomodation Details:</p>
                                         <p></p>
                                         <p></p>
@@ -3619,7 +3609,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                     </div>
                                 </div>
-                                <p>If accommodation on campus is important to you we advise you to arrive a few days before so you can try to register. You can also to choose accommodation off campus, we have an article about that <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/study-in-china-guide/accommodation/">here</a>. </p>
+                                <p>If accommodation on campus is important to you we advise you to arrive a few days before so you can try to register. You can also to choose accommodation off campus, we have an article about that <a style="color:#e10707;font-weight:700;" target="_blank" href="{{ route('listA') }}">here</a>. </p>
                             </section>
                         </article>
                     </div>
@@ -3694,7 +3684,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
                                         <div class="">
-                                            <p> Please choose the programs <a style="color:#e10707;" target="_blank" href="https://www.china-admissions.com/how-to-choose-programs-at-chinese-universities/">here</a> , "You are advised to select 2-3 programs to increase your chances of getting accepted.</p>
+                                            <p> Please choose the programs <a style="color:#e10707;" target="_blank" href="{{ route('listA') }}">here</a> , "You are advised to select 2-3 programs to increase your chances of getting accepted.</p>
                                         </div>
                                     </div>
                                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
@@ -3710,7 +3700,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                             <div class=" mb-2">
                                                 <p class="intro-headers">Preparing documents:</p>
                                                 <p>You can start your application now and send the application documents during your application. Some documents you can send later if you don’t have them right away. Some more info about preparing application documents is <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/study-in-china-guide/application-documents-for-chinese-universities/">here</a> </p>
-                                            </div> <a class="text" id="processinfo_showmore" href="#processinfo" role="button" style="color:#e10707;font-weight:700;"> Show more </a>
+                                            </div> 
                                             <div class="d-none " id="processinfo">
                                                 <p class="intro-headers">Application process:</p>
                                                 <p> Applying Online is simple in just a few steps. More information is available <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/how-to-apply-online-to-chinese-universities/"> here</a>.</p>
@@ -3720,12 +3710,12 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                                 <p>The university may contact you directly for further questions. </p>
                                                 <p>We will then follow up each week with the university for updates. As soon as there is any update we will let you know. If you have made other plans, decide to withdraw / change address at any time please let us know.</p>
                                                 <p>After you have been accepted you will receive your admissions letter electronically and asked to pay the non-refundable deposit to the university.</p>
-                                                <p>Once you have paid the deposit the university will issue you the admissions letter and visa form to your home country.</p> <a class="text" id="processinfo_showless" href="#processinfo" role="button" style="color:#484848;font-weight:700;"> Show less </a>
+                                                <p>Once you have paid the deposit the university will issue you the admissions letter and visa form to your home country.</p> <a class="text" id="processinfo_showless" href="{{ route('listA') }}" role="button" style="color:#484848;font-weight:700;"> Show less </a>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="collapseThree" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
-                                        <div class=""> <a style="color:#e10707;" target="_blank" href="https://www.china-admissions.com/enrolling-at-chinese-universities/">Here</a> is some more information about the enrollment process after you have been accepted. </div>
+                                        <div class=""> <a style="color:#e10707;" target="_blank" href="{{ route('listA') }}">Here</a> is some more information about the enrollment process after you have been accepted. </div>
                                     </div>
                                 </section>
                             </section>
@@ -3735,78 +3725,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                 <div class="mt-1 mb-1 nitro-offscreen">
                     <div class="divider"></div>
                 </div>
-                <div class="row nitro-offscreen">
-                    <div class="col-sm">
-                        <article style="margin-bottom:0;">
-                            <section class="mdc-card__supporting-text" id="question-container">
-                                <h3 class="ca-card-title mt-5">❓ Have a Question?</h3>
-                                <div class="form-group" style="display:flex;"> <i class="fas fa-search" style="position:absolute;margin-top:12px;left:32px;"></i> <input type="text" class="form-control fuzzy-search" id="question" placeholder="Search your question or keyword" style="padding-left:40px;"> </div>
-                                <div class="">
-                                    <div class="question-box d-none ">
-                                        <p>There are no similar questions. Please send us your question below </p>
-                                        <div class="p-3" style="background:#e5e5e5;">
-                                            <form id="program-question">
-                                                <div class="col-lg-4 mb-3"> <label for="question-type">Question Type </label> <select class="custom-select" id="question-type" name="category" required="">
-                                                        <option selected="" disabled="" value="">Choose Option</option>
-                                                        <option value="Intakes">Intakes</option>
-                                                        <option value="Program details">Program details</option>
-                                                        <option value="Admissions">Admissions</option>
-                                                        <option value="Eligibility">Eligibility</option>
-                                                        <option value="English Tests">English Tests</option>
-                                                        <option value="Fees ">Fees</option>
-                                                        <option value="Cost of Living">Cost of Living</option>
-                                                        <option value="Scholarships">Scholarships</option>
-                                                        <option value="Curriculum">Curriculum</option>
-                                                        <option value="Others">Others</option>
-                                                    </select> </div>
-                                                <div class="col-12 mb-3"> <label for="question">Your Question</label> <input type="text" class="form-control" id="question" name="content" placeholder="Write your question and we will reply in 1-2 days" value="" required=""> </div>
-                                                <div class="col-md-6"><button class="ca-button w-auto" type="submit">Ask Question</button></div> <input type="hidden" name="school" value="129">
-                                            </form>
-                                        </div>
-                                    </div>
-                                    <ul class="questions-answers-container list">
-                                        <li class="d-flex mt-3 mb-3">
-                                            <div class="votes d-flex flex-column align-items-center flex-shrink-0" style="border-right: 1px solid #ddd;text-align: center;color: #000;padding: 0;margin: 0;width: 65px;">
-                                                <div class="upvote">
-                                                    <i class="fa-2x fas fa-caret-up" onclick="vote(79,'up')"></i>
-                                                </div>
-                                                <div class="align-items-center d-flex flex-column vote-count">
-                                                    <span class="count" id="count-79">-1</span>
-                                                    <span>votes</span>
-                                                </div>
-                                                <div class="downvote">
-                                                    <i class="fa-2x fas fa-caret-down" onclick="vote(79,'down')"></i>
-                                                </div>
-
-                                            </div>
-                                            <div class="question-answers p-2">
-                                                <div class="questions d-flex mb-4">
-                                                    <span class="d-md-block d-none" style="min-width:100px"><strong>Question:</strong> </span>
-                                                    <span class="d-md-none d-block"><strong>Q:</strong> </span>
-                                                    <strong class="userQuestion hide-class"> Are there scholarships available for this university?</strong>
-                                                </div>
-                                                <div class="answer d-flex">
-                                                    <span class="d-md-block d-none" style="min-width:100px"><strong>Answer:</strong> </span>
-                                                    <span class="d-md-none d-block"><strong>A:</strong> </span>
-                                                    <div class="d-flex flex-column flex-shrink-1">
-
-                                                        <strong class="reply"><span style="font-size: 12px;"><span style="font-size: 14px;">For scholarships, you can check the information and guides on our&nbsp;</span></span><a href="https://www.china-admissions.com/blog/china-scholarship/" style="background-color: rgb(255, 255, 255);">Scholarship Blog</a>. Moreover, for the Chinese Government Scholarship (CSC fully-funded scholarship), please check on their&nbsp;<a href="https://apply.china-admissions.com/_bos/qa/www.campuschina.org" style="background-color: rgb(255, 255, 255); font-size: 16px;"><span style="font-size: 14px;"></span><span style="font-size: 14px;">official website</span><span style="font-size: 14px;">.</span></a></strong>
-                                                        <span class="author">by Nadia - China Admissions on November 4, 2021</span>
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <ul class="pagination d-none">
-                                        <li class="active"><a class="page" href="javascript:function Z(){Z=&quot;&quot;}Z()">1</a></li>
-                                    </ul>
-                                </div>
-                                <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/questions">See more questions about studying in China<i class="fas fa-arrow-right ml-1"></i> </a> </strong> </div>
-                            </section>
-                        </article>
-                    </div>
-                </div>
+                
                 <div class="mt-1 mb-1 nitro-offscreen">
                     <div class="divider"></div>
                 </div>
