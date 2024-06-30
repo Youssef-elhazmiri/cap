@@ -19,6 +19,10 @@ Route::get('/contact', function () {
     return view('pages.contact');
 })->name('contact');
 
+Route::get('/guidechina', function () {
+    return view('pages.guidechina');
+})->name('guidechina');
+
 Route::get('/all_univ', function () {
     return view('pages.universities.all_univ');
 })->name('all_univ');

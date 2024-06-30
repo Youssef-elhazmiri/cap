@@ -266,7 +266,7 @@
                 data-bs-toggle="dropdown" aria-expanded="false">Guide</a>
               <ul class="dropdown-menu" aria-labelledby="shop">
                 <li><a href="{{ route('all_univ') }}" class="dropdown-item">Moving to China</a></li>
-                <li><a href="{{ route('home') }}" class="dropdown-item">Studying in China</a></li>
+                <li><a href="{{ route('guidechina') }}" class="dropdown-item">Studying in China</a></li>
                 <li><a href="" class="dropdown-item">Cities</a></li>
                 <li><a href="{{ route('all_univ') }}" class="dropdown-item">Universities</a></li>
                 <li><a href="" class="dropdown-item">Programs</a></li>
@@ -277,7 +277,7 @@
             </li>
 
             <li class="nav-item">
-              <a href="" class="nav-link mx-2">Support</a>
+              <a href="{{ route('contact') }}" class="nav-link mx-2">Support</a>
             </li>
 
             <li class="nav-item dropdown">
@@ -286,7 +286,7 @@
               <ul class="dropdown-menu" aria-labelledby="shop">
                 <li><a href="" class="dropdown-item">Why China Admissions?</a></li>
                 <li><a href="" class="dropdown-item">Our services</a></li>
-                <li><a href="" class="dropdown-item">Book a Call with Us</a></li>
+                <li><a href="{{ route('contact') }}" class="dropdown-item">Book a Call with Us</a></li>
                 <li><a href="{{ route('welcome') }}" class="dropdown-item">Our Story</a></li>
                 <li><a href="{{ route('welcome') }}" class="dropdown-item">Testimonials</a></li>
               </ul>
