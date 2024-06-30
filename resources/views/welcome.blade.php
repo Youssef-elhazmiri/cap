@@ -998,7 +998,7 @@
                      <li>Apply for your visa</li>
                      <li>Confirm your place and book your flight and accommodation to come to China!</li>
                   </ol>
-                  <p class="text-white"><a href="" class="btn btn-primary px-5 py-3" style="width:313px;">Choose your program</a></p>
+                  <p class="text-white"><a href="{{ route('all_univ') }}" class="btn btn-primary px-5 py-3" style="width:313px;">Choose your program</a></p>
                </section>
             </div>
          </div>
