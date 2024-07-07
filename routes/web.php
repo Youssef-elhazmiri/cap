@@ -23,6 +23,10 @@ Route::get('/guidechina', function () {
     return view('pages.guidechina');
 })->name('guidechina');
 
+Route::get('/enrollment', function () {
+    return view('pages.enrollment');
+})->name('enrollment');
+
 Route::get('/all_univ', function () {
     return view('pages.universities.all_univ');
 })->name('all_univ');

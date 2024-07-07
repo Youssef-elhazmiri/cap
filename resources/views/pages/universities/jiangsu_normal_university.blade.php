@@ -3445,8 +3445,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                     <p>&nbsp;</p>
                                     <p>The motto of JSNU is “崇德厚学，励志敏行” (chongde hou xue, li zhi min xing), which English version is “Virtue, Knowledge, Ambition, and Action”.</p>
                                     <p>The spirit in the new era is “守正出新，坚志勇为” (shouzheng chu xin, jian zhi yong wei), which English version is “Integrity, Innovation, Principle and Practice”.</p>
-                                    <p>Therefore, in the future, JSNU will adhere to its motto and spirit and devote itself to cultivating talents, spreading knowledge, advocating culture, and serving society.</p> <a class="text" id="showless-about-school" href="#moreinfo" role="button" style="color:#484848;font-weight:700;"> Show less </a>
-                                </div> <a class="text show-more-btn" id="showmore-about-school" href="#moreinfo" role="button" style=""> Show more </a>
+                                    <p>Therefore, in the future, JSNU will adhere to its motto and spirit and devote itself to cultivating talents, spreading knowledge, advocating culture, and serving society.</p> 
                             </section>
                         </article>
                     </div>
@@ -3466,12 +3465,12 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseOther" class="collapse show" aria-labelledby="others" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center ">
-                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="/d/pNJSNVZN0/chinese-language-course-at-jiangsu-normal-university-jsnu/"> Chinese Language Course </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" class="text-dark" href="{{ route('listA') }}"> Chinese Language Course </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">8,754 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pNJSNVZN0/chinese-language-course-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=NONE&amp;keyword=JSNU">See more non-Degree programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more non-Degree programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3480,30 +3479,30 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseBachelor" class="collapse show" aria-labelledby="headingOne" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBJSNTP60/electrical-engineering-and-automation-at-jiangsu-normal-university-jsnu/" class="text-dark"> Bachelor’s in Electrical Engineering and Automation </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Electrical Engineering and Automation </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">19,610 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBJSNTP60/electrical-engineering-and-automation-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBJSNNYJ0/international-trade-and-economy-at-jiangsu-normal-university-jsnu/" class="text-dark"> Bachelor’s in International Trade and Economy </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in International Trade and Economy </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">19,610 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBJSNNYJ0/international-trade-and-economy-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBJSN2JR0/mechanical-design-manufacture-and-automation-at-jiangsu-normal-university-jsnu/" class="text-dark"> Bachelor’s in Mechanical Design - Manufacture and Automation </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Mechanical Design - Manufacture and Automation </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">19,610 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBJSN2JR0/mechanical-design-manufacture-and-automation-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pBJSNDZB0/software-engineering-at-jiangsu-normal-university-jsnu/" class="text-dark"> Bachelor’s in Software Engineering </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Bachelor’s in Software Engineering </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money">19,610 MAD</span> / Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pBJSNDZB0/software-engineering-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=BACHELOR&amp;keyword=JSNU">See more bachelor programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more bachelor programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -3512,30 +3511,30 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                         <div id="collapseMasters" class="collapse show" aria-labelledby="headingTwo" data-parent="#programs-accordion">
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMJSN5V40/international-trade-at-jiangsu-normal-university-jsnu/" class="text-dark"> Master’s in International Trade </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in International Trade </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 16,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMJSN5V40/international-trade-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMJSN56Y0/marketing-management-at-jiangsu-normal-university-jsnu/" class="text-dark"> Master’s in Marketing Management </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Marketing Management </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 16,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMJSN56Y0/marketing-management-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMJSNLUX0/mechanical-engineering-at-jiangsu-normal-university-jsnu/" class="text-dark"> Master’s in Mechanical Engineering </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Mechanical Engineering </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 16,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMJSNLUX0/mechanical-engineering-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
                                             <li class="list-group-item d-lg-flex align-items-center">
-                                                <div class="col-lg-4"> <strong> <a type="submit" href="/d/pMJSNTRL0/sweet-potato-biology-at-jiangsu-normal-university-jsnu/" class="text-dark"> Master’s in Sweet Potato Biology </a></strong> </div>
+                                                <div class="col-lg-4"> <strong> <a type="submit" href="{{ route('listA') }}" class="text-dark"> Master’s in Sweet Potato Biology </a></strong> </div>
                                                 <div class="col-lg-3"> <span> <span class="money"></span> 16,000 CNY/ Year</span> </div>
                                                 <div class="col-lg-2"> <span>Start Date: Sep 2024 </span> </div>
-                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="/d/pMJSNTRL0/sweet-potato-biology-at-jiangsu-normal-university-jsnu/"> Apply Now </a> </div>
+                                                <div class="col-lg-3"> <a type="submit" class="ca-button mt-2 btn-danger" href="{{ route('listA') }}"> Apply Now </a> </div>
                                             </li>
-                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="/search/?degree=MASTER&amp;keyword=JSNU">See more master programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
+                                            <div class="see-more mt-2 p-2"> <strong> <a style="color:#d71f27;" href="{{ route('listA') }}">See more master programs <i class="fas fa-arrow-right"></i> </a> </strong> </div>
                                         </div>
                                     </div>
                                 </div>
@@ -3585,7 +3584,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
                                         <div class="">
-                                            <p> Please choose the programs <a style="color:#e10707;" target="_blank" href="https://www.china-admissions.com/how-to-choose-programs-at-chinese-universities/">here</a> , "You are advised to select 2-3 programs to increase your chances of getting accepted.</p>
+                                            <p> Please choose the programs <a style="color:#e10707;" target="_blank" href="{{ route('listA') }}">here</a> , "You are advised to select 2-3 programs to increase your chances of getting accepted.</p>
                                         </div>
                                     </div>
                                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
@@ -3600,11 +3599,11 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                             </div>
                                             <div class=" mb-2">
                                                 <p class="intro-headers">Preparing documents:</p>
-                                                <p>You can start your application now and send the application documents during your application. Some documents you can send later if you don’t have them right away. Some more info about preparing application documents is <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/study-in-china-guide/application-documents-for-chinese-universities/">here</a> </p>
-                                            </div> <a class="text" id="processinfo_showmore" href="#processinfo" role="button" style="color:#e10707;font-weight:700;"> Show more </a>
+                                                <p>You can start your application now and send the application documents during your application. Some documents you can send later if you don’t have them right away. Some more info about preparing application documents is <a style="color:#e10707;font-weight:700;" target="_blank" href="{{ route('guidechina') }}">here</a> </p>
+                                            </div> 
                                             <div class="d-none " id="processinfo">
                                                 <p class="intro-headers">Application process:</p>
-                                                <p> Applying Online is simple in just a few steps. More information is available <a style="color:#e10707;font-weight:700;" target="_blank" href="https://www.china-admissions.com/how-to-apply-online-to-chinese-universities/"> here</a>.</p>
+                                                <p> Applying Online is simple in just a few steps. More information is available <a style="color:#e10707;font-weight:700;" target="_blank" href="{{ route('listA') }}"> here</a>.</p>
                                                 <p>The first steps are to choose the programs, pay the application fee and upload the application documents.</p>
                                                 <p>Once submitted to China Admissions, we will review your application within 2-3 days and proceed to the university or ask you for further clarification</p>
                                                 <p>After it has been processed to the university you will receive your unique application ID from each university.</p>
@@ -3616,7 +3615,7 @@ select.select2.is-invalid+.select2.select2-container.select2-container--bootstra
                                         </div>
                                     </div>
                                     <div id="collapseThree" class="collapse show" aria-labelledby="headingOne" data-parent="#Steps">
-                                        <div class=""> <a style="color:#e10707;" target="_blank" href="https://www.china-admissions.com/enrolling-at-chinese-universities/">Here</a> is some more information about the enrollment process after you have been accepted. </div>
+                                        <div class=""> <a style="color:#e10707;" target="_blank" href="{{ route('enrollment') }}">Here</a> is some more information about the enrollment process after you have been accepted. </div>
                                     </div>
                                 </section>
                             </section>

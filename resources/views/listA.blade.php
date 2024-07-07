@@ -1,6 +1,8 @@
 @extends('layouts.app')
  
 @section('content')
+@section('title') {{'CAP - Programs'}} @endsection
+
 
 <section id="features">
     <div class="feature-box container">
